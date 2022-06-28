@@ -1,3 +1,3 @@
 def call(name){
-echo{Hello Mrs bhavani kachakayala}
+  echo{Hello ${name}.. How are you}
 }
